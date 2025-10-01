@@ -58,6 +58,72 @@ ul li img:hover {
   transform: scale(1.05);
   box-shadow: 0 0 10px rgba(255, 204, 0, 0.8);
 }
+ 
+/* Contact Form */
+.contact-form {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #222;
+  padding: 25px;
+  border-radius: 10px;
+  border: 2px solid #333;
+  box-shadow: 0 0 10px rgba(255, 204, 0, 0.2);
+  text-align: left;
+}
+
+.contact-form fieldset {
+  border: none;
+  margin-bottom: 20px;
+  padding: 0;
+}
+
+.contact-form legend {
+  font-weight: bold;
+  color: #ffcc00;
+  margin-bottom: 10px;
+  font-size: 1rem;
+}
+
+.contact-form label {
+  display: block;
+  margin: 10px 0 5px;
+  color: #ffcc00;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #444;
+  background-color: #111;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  border-color: #ffcc00;
+  outline: none;
+  box-shadow: 0 0 6px rgba(255, 204, 0, 0.6);
+}
+
+.contact-form button {
+  background-color: #ffcc00;
+  color: #111;
+  border: none;
+  padding: 12px 20px;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.contact-form button:hover {
+  background-color: #e6b800;
+  transform: translateY(-2px);
+}
 
 /* Blockquote */
 blockquote {
