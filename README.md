@@ -1,4 +1,4 @@
-#Photography Portfolio Website
+# Photography Portfolio Website
 
 A personal photography portfolio built with HTML5 and CSS3, showcasing favorite photos, team members, and a contact form.
 
@@ -12,7 +12,7 @@ A personal photography portfolio built with HTML5 and CSS3, showcasing favorite 
 - Fully semantic HTML — uses <section>, <figure>, <fieldset>, <legend> instead of unnecessary <div>/<span>.
 
 ## 📂 Project Structure
-photography-portfolio/
+Photography-portfolio
 
 1. index.html        # Main HTML file
 2. style.css         # Stylesheet
@@ -29,7 +29,7 @@ photography-portfolio/
 
 ## Getting Started
 1. Clone this repository
-git clone https://github.com//photography-portfolio.git
+git clone https://github.com/Brian-Git-spec/Photography-portfolio.git
 cd photography-portfolio
 
 2. Open the project
