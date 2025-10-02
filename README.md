@@ -49,7 +49,7 @@ which does not send data anywhere.
 3.Hook up a backend with PHP, Node.js, or Python.
 
 
-##📜 License
+## 📜 License
 
 This project is open-source and free to use.
 You can customize it for personal or professional use.
